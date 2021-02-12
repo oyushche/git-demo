@@ -6,5 +6,7 @@ public class Master
         System.out.println("3");
 
         System.out.println("bad code want to remove it");
+
+        System.out.println("5");
     }
 }
